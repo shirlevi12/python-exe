@@ -44,8 +44,6 @@ Available Services and Features:
 Credits
 The tool was developed by Shir Levian.
 
-Special thanks to the Boto3 Library and AWS CLI.
-
 Links:
 
 [https://boto3.amazonaws.com/v1/documentation/api/latest/reference/services/route53.html](https://boto3.amazonaws.com/v1/documentation/api/latest/reference/services/route53.html)
