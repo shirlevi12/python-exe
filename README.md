@@ -5,7 +5,9 @@ The AWS CLI Manager Tool is a command-line tool designed for managing AWS servic
 ## Requirements:
  Before using the tool, ensure the following requirements are met:
 - AWS Account – A valid AWS account is required.
-- Python – You need to have Python 3.6 to 3.10 installed. If you're using a version older than Python 3.6  or newer version than Python 3.10, you will need to upgrade/downgrade your version of Python 
+  
+- Python – You need to have Python 3.6 to 3.10 installed. If you're using a version older than Python 3.6  or newer version than Python 3.10, you will need to upgrade/downgrade your version of  	 
+  Python  
   in order to use Boto3 and AWS CLI properly. You can download Python from [Python.org.](https://www.python.org/downloads/)
 - Boto3 – A Python library for interacting with AWS services. To install:
    run the command "pip install boto3"
@@ -18,11 +20,18 @@ The AWS CLI Manager Tool is a command-line tool designed for managing AWS servic
   
   
 ## How to Clone the Project and Run the Tool:
+-  If you haven't installed Git yet, you need to download and install it on your computer. To download and install Git, visit the official Git website:
+   [Download Git](https://git-scm.com/downloads)
+   and follow the installation instructions for your operating system.
+   
 - Clone the GitHub Repository
-   To get the tool, you need to clone the repository to your local machine. Open your terminal and run the following command:
+   To get the tool, you need to clone the repository to your local machine.
+   Open your terminal and run the following command:
    git clone **https://github.com/shirlevi12/python-exe.git**
    This will clone the project into a folder named python-exe
+  
 - Navigate to the Project Folder
+  
 - Run the Tool
   The main script to run the tool is main.py. You can execute the script with Python:
   python main.py
@@ -34,10 +43,12 @@ The AWS CLI Manager Tool is a command-line tool designed for managing AWS servic
     Create DNS Records – Create DNS records within your hosted zone.
     Edit DNS Records – Modify existing DNS records created via the cli.
     Delete DNS Records – Delete DNS records from your hosted zone created via the cli.
+   
 - S3
      Create Public/Private Bucket – Specify whether to create a public or private bucket.
      Upload File to Bucket – Upload a file to a bucket you created via the cli.
      List Buckets – Display a list of all S3 buckets created via the CLI.
+  
 - EC2
      Create EC2 Instance – Create an EC2 instance with either Ubuntu or Amazon Linux OS using the t3.nano or t4g.nano instance type.
      Start and Stop EC2 Instances – Start or stop EC2 instances created via the CLI.
