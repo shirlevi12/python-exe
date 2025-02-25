@@ -44,10 +44,11 @@ Available Services and Features:
 Credits
 The tool was developed by Shir Levian.
 
-Links:
+ DocumentationLinks:
+ 
+- [Route 53 - Boto3 Documentation](https://boto3.amazonaws.com/v1/documentation/api/latest/reference/services/route53.html)
+- [S3 - Boto3 Documentation](https://boto3.amazonaws.com/v1/documentation/api/latest/reference/services/s3.html)
+- [EC2 - Boto3 Documentation](https://boto3.amazonaws.com/v1/documentation/api/latest/reference/services/ec2.html)
+- [IAM - Boto3 Documentation](https://boto3.amazonaws.com/v1/documentation/api/latest/reference/services/iam.html)
 
-[https://boto3.amazonaws.com/v1/documentation/api/latest/reference/services/route53.html](https://boto3.amazonaws.com/v1/documentation/api/latest/reference/services/route53.html)
-https://boto3.amazonaws.com/v1/documentation/api/latest/reference/services/s3.html
-https://boto3.amazonaws.com/v1/documentation/api/latest/reference/services/ec2.html
-https://boto3.amazonaws.com/v1/documentation/api/latest/reference/services/iam.html
 
