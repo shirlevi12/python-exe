@@ -8,7 +8,7 @@ The AWS CLI Manager Tool is a command-line tool designed for managing AWS servic
 - Python – You need to have Python 3.6 to 3.10 installed. If you're using a version older than Python 3.6  or newer version than Python 3.10, you will need to upgrade/downgrade your version of Python 
   in order to use Boto3 and AWS CLI properly. You can download Python from [Python.org.](https://www.python.org/downloads/)
 - Boto3 – A Python library for interacting with AWS services. To install:
-  run the command "pip install boto3"
+ ###  run the command "pip install boto3"
 - AWS CLI – AWS Command Line Interface is required. To install it:
   run the command "pip install awscli"
 - Configure AWS CLI – Run the following command to configure your AWS CLI by entering your AWS access key and secret key:
@@ -27,16 +27,16 @@ The AWS CLI Manager Tool is a command-line tool designed for managing AWS servic
 
 
 ## Available Services and Features:
-### -  Route 53
+ -  Route 53
      Create Hosted Zone – Create a new hosted zone in Route 53.
      Create DNS Records – Create DNS records within your hosted zone.
      Edit DNS Records – Modify existing DNS records created via the cli.
      Delete DNS Records – Delete DNS records from your hosted zone created via the cli.
-### - S3
+ - S3
      Create Public/Private Bucket – Specify whether to create a public or private bucket.
      Upload File to Bucket – Upload a file to a bucket you created via the cli.
      List Buckets – Display a list of all S3 buckets created via the CLI.
-### - EC2
+ - EC2
      Create EC2 Instance – Create an EC2 instance with either Ubuntu or Amazon Linux OS using the t3.nano or t4g.nano instance type.
      Start and Stop EC2 Instances – Start or stop EC2 instances created via the CLI.
      List EC2 Instances – Display a list of all EC2 instances created via the CLI.
