@@ -1,4 +1,4 @@
-aws - python CLI tool 
+#aws - python CLI tool 
 
 The AWS CLI Manager Tool is a command-line tool designed for managing AWS services easily. The tool supports managing Route53, S3, and EC2 services, allowing you to create, edit, and delete objects.
 
