@@ -50,7 +50,7 @@ The AWS CLI Manager Tool is a command-line tool designed for managing AWS servic
      List Buckets – Display a list of all S3 buckets created via the CLI.
   
 - EC2
-     Create EC2 Instance – Create an EC2 instance with either Ubuntu or Amazon Linux OS using the t3.nano or t4g.nano instance type.
+     Create EC2 Instance – Create an EC2 instance with either Ubuntu or Amazon Linux OS with t3.nano or t4g.nano instance type.
      Start and Stop EC2 Instances – Start or stop EC2 instances created via the CLI.
      List EC2 Instances – Display a list of all EC2 instances created via the CLI.
      
